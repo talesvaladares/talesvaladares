@@ -1,4 +1,4 @@
-# Tales Valadares <h2>
+# Tales Valadares
   
  <a href="https://www.linkedin.com/in/tales-silva-b3b019198/ &ndash; LINK" title="linkedin">Linkedin</a>
  
