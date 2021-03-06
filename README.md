@@ -1,4 +1,9 @@
-### Hi there 👋
+# Tales Valadares <h2>
+  
+ <a href="https://www.linkedin.com/in/tales-silva-b3b019198/ &ndash; LINK" title="linkedin">Linkedin</a>
+ 
+ Professor de Computação, focado em me especializar no desenvolvimento full stack com React.
+
 
 <!--
 **talesvaladares/talesvaladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
