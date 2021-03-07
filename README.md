@@ -1,4 +1,4 @@
-# Tales Valadares
+# Tales Eduardo
 ---
   
 [Linkedin](https://www.linkedin.com/in/tales-silva-b3b019198)
