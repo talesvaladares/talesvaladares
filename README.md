@@ -3,7 +3,7 @@
   
 [Linkedin](https://www.linkedin.com/in/tales-silva-b3b019198)
  
- Professor de Computação, focado em me especializar no desenvolvimento full stack com React e NodeJS.
+ Professor de Computação, focado no desenvolvimento frontend com ReactJS/NextJS 💻.
 
 
 <!--
