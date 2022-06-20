@@ -17,7 +17,7 @@
 <p align="left">Professor de Computação, focado no desenvolvimento frontend com ReactJS/NextJS 💻.</p>
 
 ###
-<p align="left">Atualmente trabalho na PSV Sistemas como frontend com utilizando Angular.</p>
+<p align="left">Atualmente trabalho na PSV Sistemas como frontend utilizando Angular.</p>
 
 ###
 <p align="left">Techs:</p>
